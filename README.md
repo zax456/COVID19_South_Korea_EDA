@@ -1,4 +1,5 @@
 # COVID19_South_Korea_EDA
-Exploratory data analysis on COVID19 data provided by SK's government (20/01/2020 - 07/04/2020)
+Exploratory data analysis and Prediction on COVID19 data provided by SK's government (20/01/2020 - 07/04/2020)
 
-NbViewer URL: https://nbviewer.jupyter.org/github/zax456/COVID19_South_Korea_EDA/blob/master/EDA_on_SK_Covid19.ipynb
+EDA's NbViewer URL: https://nbviewer.jupyter.org/github/zax456/COVID19_South_Korea_EDA/blob/master/EDA_on_SK_Covid19.ipynb
+Prediction's NBViewer URL: https://nbviewer.jupyter.org/github/zax456/COVID19_South_Korea_EDA/blob/master/Prediction_COVID19_SouthKorea_May2020.ipynb
